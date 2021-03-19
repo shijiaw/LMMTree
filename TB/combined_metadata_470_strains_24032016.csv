@@ -1,0 +1,471 @@
+id_person,codigoupch,tip_labels2,sample_date2,age,sex,hiv,previous_tb,drug_susceptibility_result,smear_result_binary,smear_result_123,sub_lineage_name,caja_adn,fila_adn,columna_adn,groupmiruspol,study,total_miruspol_cluster
+LI2016209,162,14722_6#10_H37Rv,02-Nov-09,,F,0,0,MDR,1,,LAM,2,D,6,23,population level study,1
+CA0445308,4453-8,14722_6#11_H37Rv,11-Nov-08,29,F,0,0,MDR,1,,Beijing,2,E,1,882,population level study,1
+CA0072509,725-9,14722_6#12_H37Rv,03-Feb-09,29,M,0,1,MDR,1,,Beijing,2,E,4,878,population level study,1
+LI2018709,187,14722_6#13_H37Rv,02-Dec-09,35,F,0,0,RIF MONO,1,,LAM,2,F,6,605,population level study,12
+CA0085109,851-9,14722_6#14_H37Rv,13-Feb-09,24,M,0,0,MDR,1,,LAM,2,F,7,649,population level study,101
+CA0461908,4619-8,14722_6#15_H37Rv,19-Nov-08,41,M,0,0,INH MONO,1,,Haarlem,2,G,6,169,population level study,3
+CA0465408,4654-8,14722_6#16_H37Rv,23-Nov-08,42,F,0,1,MDR,1,,LAM,2,H,4,721,population level study,3
+CA0471908,4719-8,14722_6#17_H37Rv,25-Nov-08,47,F,0,1,INH MONO,1,,Haarlem,2,H,6,135,population level study,1
+LI2027009,270,14722_6#18_H37Rv,03-Nov-09,26,F,0,0,INH MONO,1,,LAM,3,E,2,852,population level study,1
+LI2028709,287,14722_6#19_H37Rv,13-Mar-09,39,M,0,0,INH MONO,1,,LAM,3,F,3,836,population level study,27
+CA0306908,3069-8,14722_6#1_H37Rv,09-Mar-08,40,M,0,1,RIF MONO,1,,T,1,A,1,424,population level study,1
+CA0380008,3800-8,14722_6#20_H37Rv,10-Oct-08,65,M,0,0,SENSITIVE,1,,Bovis,3,F,5,511,population level study,1
+LI2029209,292,14722_6#21_H37Rv,16-Mar-09,18,M,0,0,INH MONO,1,,Haarlem,3,G,1,439,population level study,2
+LI2033609,336,14722_6#22_H37Rv,18-Mar-09,,M,0,0,SENSITIVE,1,,Caprae,4,C,7,35,population level study,1
+CA0148609,1486-9,14722_6#23_H37Rv,13-Mar-09,29,M,0,0,RIF MONO,1,,LAM,4,B,2,602,population level study,13
+CA0162309,1623-9,14722_6#24_H37Rv,18-Mar-09,51,F,0,1,MDR,1,,LAM,4,D,2,646,population level study,1
+CA0184209,1842-9,14722_6#25_H37Rv,31-Mar-09,36,M,1,0,MDR,0,,LAM,5,A,3,829,population level study,1
+LI2042009,420,14722_6#26_H37Rv,04-Aug-09,18,M,0,0,SENSITIVE,1,,LAM,5,C,1,948,population level study,1
+LI2046809,468,14722_6#27_H37Rv,17-Apr-09,,F,0,0,SENSITIVE,1,,Beijing,5,G,4,729,population level study,1
+CA0225609,2256-9,14722_6#28_H37Rv,24-Apr-09,52,F,0,1,RIF MONO,1,,LAM,5,H,2,604,population level study,1
+CA0225809,2258-9,14722_6#29_H37Rv,24-Apr-09,30,M,0,1,MDR,1,,Beijing,5,H,3,887,population level study,5
+CA0009209,92-9,14722_6#2_H37Rv,01-Aug-09,76,M,0,1,MDR,1,,LAM,1,B,4,728,population level study,9
+CA0235509,2355-9,14722_6#30_H37Rv,28-Apr-09,80,F,0,0,INH MONO,1,,Other Small Clades,6,B,1,760,population level study,2
+CA0236509,2365-9,14722_6#31_H37Rv,27-Apr-09,75,M,0,1,INH MONO,1,,Other Small Clades,6,B,2,105,population level study,4
+CA0237409,2374-9,14722_6#32_H37Rv,27-Apr-09,29,F,1,0,SENSITIVE,1,,T,6,C,1,22,population level study,1
+LI2050409,504,14722_6#33_H37Rv,20-Apr-09,65,M,0,0,MDR,1,,LAM,6,C,1,833,population level study,9
+CA0241609,2416-9,14722_6#34_H37Rv,29-Apr-09,71,M,0,0,MDR,0,,Haarlem,6,C,5,190,population level study,2
+LI2050909,509,14722_6#35_H37Rv,20-Apr-09,26,F,0,1,INH MONO,1,,LAM,6,C,5,644,population level study,1
+LI2052009,520,14722_6#36_H37Rv,22-Apr-09,30,F,0,0,INH MONO,0,,Beijing,6,E,1,875,population level study,100
+CA0263609,2636-9,14722_6#37_H37Rv,11-May-09,46,M,0,0,INH MONO,0,,Haarlem,6,F,1,304,population level study,7
+LI2053609,536,14722_6#38_H37Rv,28-Apr-09,22,M,0,1,RIF MONO,1,,LAM,6,F,2,605,population level study,12
+CA0265309,2653-9,14722_6#39_H37Rv,11-May-09,56,F,0,0,INH MONO,1,,Other Small Clades,6,F,5,766,population level study,2
+CA0023309,233-9,14722_6#3_H37Rv,13-Jan-09,36,M,0,1,MDR,1,,Other Small Clades,1,E,2,758,population level study,4
+LI2054709,547,14722_6#40_H37Rv,30-Apr-09,29,M,0,1,MDR,1,,LAM,6,F,7,409,population level study,2
+LI2056309,563,14722_6#41_H37Rv,27-Apr-09,43,M,0,0,INH MONO,1,,Beijing,6,H,5,875,population level study,100
+CA0297909,2979-9,14722_6#42_H37Rv,20-May-09,30,M,0,0,INH MONO,1,,Haarlem,7,B,4,217,population level study,7
+CA0304509,3045-9,14722_6#43_H37Rv,20-May-09,46,F,0,1,MDR,1,,Other Small Clades,7,B,7,558,population level study,16
+CA0322709,3227-9,14722_6#44_H37Rv,30-May-09,52,M,0,0,MDR,0,,Haarlem,7,D,7,999,population level study,1
+CA0341909,3419-9,14722_6#45_H37Rv,03-Jun-09,33,M,0,0,MDR,1,,LAM,7,F,4,722,population level study,7
+CA0357209,3572-9,14722_6#46_H37Rv,10-Jun-09,77,F,0,1,MDR,1,,Beijing,8,A,5,881,population level study,46
+CA0369809,3698-9,14722_6#47_H37Rv,13-Jun-09,30,M,0,1,MDR,1,,LAM,8,B,3,837,population level study,1
+LI2071109,711,14722_6#48_H37Rv,13-May-09,30,M,0,0,SENSITIVE,1,,Caprae,8,B,5,719,population level study,1
+LI2072709,727,14722_6#49_H37Rv,18-May-09,83,F,0,0,SENSITIVE,1,,T,8,C,5,566,population level study,1
+CA0037209,372-9,14722_6#4_H37Rv,13-Jan-09,20,F,0,0,RIF MONO,1,,T,1,G,1,347,population level study,23
+CA0401009,4010-9,14722_6#50_H37Rv,19-Jun-09,34,F,0,1,MDR,0,,LAM,8,D,4,649,population level study,101
+CA0408509,4085-9,14722_6#51_H37Rv,23-Jun-09,43,F,0,1,MDR,0,,LAM,8,E,4,722,population level study,7
+CA0442809,4428-9,14722_6#52_H37Rv,06-Jul-09,23,F,0,1,MDR,1,,LAM,8,F,3,649,population level study,101
+CA0465209,4652-9,14722_6#53_H37Rv,13-Jul-09,32,M,0,0,INH MONO,1,,LAM,8,H,3,611,population level study,9
+LI2084609,846,14722_6#54_H37Rv,06-Apr-09,60,M,0,1,MDR,1,,LAM,9,D,5,649,population level study,101
+CA0524309,5243-9,14722_6#55_H37Rv,01-Aug-09,,M,0,0,MDR,1,,Other Small Clades,9,E,1,558,population level study,16
+CA0732109,7321-9,14722_6#56_H37Rv,21-Sep-09,42,F,0,1,MDR,1,,Other Small Clades,9,H,2,378,population level study,1
+CA0428509,4285-9,14722_6#57_H37Rv,01-Jul-09,23,M,0,1,RIF MONO,0,,LAM,10,A,4,605,population level study,12
+CA0487709,4877-9,14722_6#58_H37Rv,17-Jul-09,22,M,0,0,INH MONO,1,,Other Small Clades,10,C,3,558,population level study,16
+LI2099009,990,14722_6#59_H37Rv,26-Jun-09,33,M,0,0,RIF MONO,0,,T,10,C,7,347,population level study,23
+CA0040309,403-9,14722_6#5_H37Rv,22-Jan-09,51,M,0,0,MDR,1,,LAM,1,G,5,662,population level study,1
+CA0715109,7151-9,14722_6#60_H37Rv,18-Sep-09,,M,0,0,MDR,0,,LAM,10,F,5,636,population level study,3
+LI2V03709,V037,14722_6#61_H37Rv,19-Jun-09,32,F,0,1,INH MONO,1,,Other Small Clades,10,G,7,70,population level study,5
+CA0455809,4558-9,14722_6#62_H37Rv,08-Jul-09,35,F,0,0,MDR,1,,T,11,A,2,484,population level study,15
+CA0749409,7494-9,14722_6#63_H37Rv,24-Sep-09,55,M,0,1,RIF MONO,1,,Haarlem,11,D,5,145,population level study,6
+LI2108309,1083,14722_6#64_H37Rv,07-Nov-09,37,M,0,0,INH MONO,1,,Other Small Clades,11,E,4,70,population level study,5
+CA0839909,8399-9,14722_6#65_H37Rv,19-Oct-09,57,M,0,1,MDR,1,,T,11,E,7,482,population level study,1
+LI2130009,1300,14722_6#66_H37Rv,08-Dec-09,18,M,0,0,INH MONO,0,,LAM,11,G,7,649,population level study,101
+CA0443309,4433-9,14722_6#67_H37Rv,01-Jul-09,19,M,0,1,MDR,1,,LAM,12,A,1,728,population level study,9
+CA0956309,9563-9,14722_6#68_H37Rv,18-Nov-09,56,M,0,1,INH MONO,1,,LAM,12,D,6,649,population level study,101
+LI2135409,1354,14722_6#69_H37Rv,21-Aug-09,30,F,0,0,SENSITIVE,1,,LAM,12,D,7,669,population level study,1
+CA0047009,470-9,14722_6#6_H37Rv,20-Jan-09,20,F,0,0,INH MONO,1,,LAM,2,A,3,649,population level study,101
+LI2136709,1367,14722_6#70_H37Rv,26-Aug-09,36,F,0,0,INH MONO,1,,Beijing,12,E,3,875,population level study,100
+LI2137309,1373,14722_6#71_H37Rv,24-Aug-09,30,F,0,1,SENSITIVE,1,,Other Small Clades,12,F,1,805,population level study,1
+CA1031109,10311-9,14722_6#72_H37Rv,01-Dec-09,30,M,0,1,MDR,1,,Haarlem,12,G,1,238,population level study,4
+CA1059909,10599-9,14722_6#73_H37Rv,15-Dec-09,53,F,0,1,MDR,1,,Haarlem,12,G,7,171,population level study,1
+CA0740709,7407-9,14722_6#74_H37Rv,25-Sep-09,25,M,0,0,MDR,1,,LAM,13,B,2,602,population level study,13
+CA0854909,8549-9,14722_6#75_H37Rv,23-Oct-09,26,M,0,1,MDR,1,,LAM,13,B,6,649,population level study,101
+CA0860509,8605-9,14722_6#76_H37Rv,27-Oct-09,30,M,0,0,INH MONO,0,,LAM,13,C,1,836,population level study,27
+CA0874109,8741-9,14722_6#77_H37Rv,03-Nov-09,22,F,0,0,MDR,,,LAM,13,C,2,836,population level study,27
+CA0898309,8983-9,14722_6#78_H37Rv,04-Nov-09,23,M,0,0,MDR,1,,LAM,13,C,5,836,population level study,27
+CA0982209,9822-9,14722_6#79_H37Rv,21-Nov-09,45,M,0,1,INH MONO,1,,Haarlem,13,E,5,242,population level study,6
+CA0423308,4233-8,14722_6#7_H37Rv,28-Oct-09,23,F,0,0,MDR,1,,T,2,A,7,484,population level study,15
+CA1105609,11056-9,14722_6#80_H37Rv,29-Dec-09,20,M,0,0,MDR,1,,LAM,13,E,6,649,population level study,101
+CA0000110,01-0,14722_6#81_H37Rv,02-Jan-10,21,F,0,1,SENSITIVE,1,,Beijing,13,E,7,875,population level study,100
+CA0000410,04-0,14722_6#82_H37Rv,28-Dec-09,51,M,0,1,MDR,1,,LAM,13,F,2,649,population level study,101
+CA0029810,298-0,14722_6#83_H37Rv,08-Jan-10,36,M,0,0,SENSITIVE,0,,T,13,G,7,454,population level study,1
+LI2155109,1551,14722_6#84_H37Rv,18-Sep-09,20,M,0,0,INH MONO,1,,T,13,H,1,398,population level study,1
+CA0043510,435-0,14722_6#85_H37Rv,13-Jan-10,25,F,0,1,MDR,0,,LAM,13,H,5,836,population level study,27
+LI2156609,1566,14722_6#86_H37Rv,17-Sep-09,18,F,0,0,RIF MONO,1,,LAM,13,H,7,605,population level study,12
+CA0698409,6984-9,14722_6#87_H37Rv,15-Sep-09,46,F,0,1,MDR,1,,LAM,14,A,3,721,population level study,3
+CA0698609,6986-9,14722_6#88_H37Rv,16-Sep-09,20,M,0,1,MDR,0,,LAM,14,A,4,629,population level study,1
+CA0988809,9888-9,14722_6#89_H37Rv,26-Nov-09,43,M,0,1,MDR,,,Haarlem,14,C,3,195,population level study,2
+CA0049809,498-9,14722_6#8_H37Rv,22-Jan-09,61,M,0,0,INH MONO,1,,LAM,2,A,7,649,population level study,101
+CA1011509,10115-9,14722_6#90_H37Rv,27-Nov-09,24,M,0,0,MDR,1,,LAM,14,C,4,836,population level study,27
+CA1027209,10272-9,14722_6#91_H37Rv,30-Nov-09,20,M,0,1,MDR,1,,Haarlem,14,C,6,227,population level study,1
+CA0000510,05-0,14722_6#92_H37Rv,30-Dec-09,20,M,0,1,SENSITIVE,1,,T,14,D,1,955,population level study,1
+CA0001310,13-0,14722_6#93_H37Rv,28-Dec-09,38,M,0,0,INH MONO,1,,LAM,14,D,4,649,population level study,101
+LI2163509,1635,14722_6#94_H37Rv,30-Sep-09,25,F,0,1,MDR,1,,Haarlem,14,D,6,184,population level study,32
+CA0009910,99-0,14722_6#95_H37Rv,29-Dec-09,26,F,0,1,MDR,1,,LAM,14,E,3,611,population level study,9
+CA0444708,4447-8,14722_6#9_H37Rv,11-Nov-08,30,F,0,0,RIF MONO,1,,Other Small Clades,2,D,5,381,population level study,2
+LS070M_1,1467,14722_7#10_H37Rv,07-May-12,24,M,0,1,MDR,1,3,Beijing,50,A,8,,household follow-up,
+LS067M_1,1469,14722_7#11_H37Rv,07-May-12,20,F,0,0,MDR,1,3,LAM,50,B,3,,household follow-up,
+LS064M_1,1471,14722_7#12_H37Rv,10-May-12,53,M,0,0,MDR,,,LAM,50,B,5,,household follow-up,
+CA134M_1,1524,14722_7#13_H37Rv,03-Apr-12,29,F,0,0,MDR,0,0,LAM,49,H,7,,household follow-up,
+LS079M_1,1611,14722_7#14_H37Rv,07-Jul-12,30,M,0,0,MDR,1,3,LAM,57,G,3,,household follow-up,
+CA140M_1,1668,14722_7#15_H37Rv,29-Mar-12,43,M,0,0,MDR,1,3,LAM,52,A,8,,household follow-up,
+CA138M_1,1670,14722_7#16_H37Rv,06-Jun-12,21,M,0,0,MDR,1,1,LAM,53,B,2,,household follow-up,
+CA142M_1,1700,14722_7#17_H37Rv,02-Jul-12,37,F,0,1,MDR,1,2,Beijing,54,E,7,,household follow-up,
+CA143M_1,1704,14722_7#18_H37Rv,28-Jun-12,28,F,0,0,MDR,1,3,LAM,56,F,3,,household follow-up,
+CA163M_1,1903,14722_7#19_H37Rv,31-Jul-12,41,M,0,1,MDR,1,3,LAM,64,F,7,,household follow-up,
+CA154M_1,865,14722_7#1_H37Rv,24-Nov-11,25,M,0,0,MDR,1,3,LAM,29,D,3,,household follow-up,
+CA114M_5,1924,14722_7#20_H37Rv,06-Jul-12,45,F,0,0,MDR,1,2,T,65,B,8,,household follow-up,
+CA160M_1,1950,14722_7#21_H37Rv,11-Jun-12,32,F,0,0,MDR,1,3,T,66,F,4,,household follow-up,
+LS086M_1,1957,14722_7#22_H37Rv,24-Aug-12,31,M,1,0,MDR,1,1,Other Small Clades,67,G,3,,household follow-up,
+LS089M_1,1958,14722_7#23_H37Rv,25-Sep-12,32,M,0,0,MDR,1,2,Haarlem,67,G,4,,household follow-up,
+LS087M_1,1959,14722_7#24_H37Rv,04-Sep-12,39,M,0,0,MDR,1,1,LAM,67,G,7,,household follow-up,
+CA090M_5,1967,14722_7#25_H37Rv,15-Sep-12,21,F,0,0,MDR,1,2,LAM,71,H,5,,household follow-up,
+CA135M_1,1163,14722_7#26_H37Rv,05-May-09,17,M,0,0,MDR,1,3,Other Small Clades,47,F,8,,household follow-up,
+LS071M_1,1379,14722_7#27_H37Rv,08-Mar-12,23,M,0,0,MDR,1,2,Beijing,46,F,1,,household follow-up,
+LS083M_2,1956,14722_7#28_H37Rv,29-Aug-12,17,M,0,0,MDR,1,1,LAM,67,G,2,,household follow-up,
+LI2003209,278-C,14722_7#29_H37Rv,01-Jul-09,34,F,0,0,INH MONO,1,,Haarlem,1,A,2,183,population level study,2
+CA079M_1,867,14722_7#2_H37Rv,11-Nov-11,42,M,0,0,MDR,1,1,LAM,28,B,7,,household follow-up,
+CA0000909,09-Sep,14722_7#30_H37Rv,19-Dec-08,38,M,0,0,RESISTENTE,1,,LAM,1,A,2,722,population level study,7
+CA0310408,3104-8,14722_7#31_H37Rv,09-May-09,33,F,0,0,INH MONO,1,,Haarlem,1,A,4,241,population level study,41
+CA0009409,94-9,14722_7#32_H37Rv,29-Sep-09,49,M,0,1,MDR,1,,LAM,1,B,6,571,population level study,1
+CA0010009,100-9,14722_7#33_H37Rv,05-Jan-09,34,M,1,0,INH MONO,1,,LAM,1,C,3,836,population level study,27
+CA0019009,190-9,14722_7#34_H37Rv,01-Jul-09,26,M,0,0,MDR,1,,T,1,D,4,484,population level study,15
+CA0019209,192-9,14722_7#35_H37Rv,01-Jul-09,42,M,0,1,INH MONO,1,,Haarlem,1,D,5,217,population level study,7
+CA0031009,310-9,14722_7#36_H37Rv,09-Jan-09,20,M,0,1,MDR,1,,LAM,1,F,4,649,population level study,101
+CA0402508,4025-8,14722_7#37_H37Rv,20-Oct-08,30,M,0,0,MDR,1,,Haarlem,1,G,1,210,population level study,3
+LI2011009,357-C,14722_7#38_H37Rv,27-Jan-09,33,M,0,1,RIF MONO,1,,LAM,1,G,4,827,population level study,6
+CA0412608,4126-8,14722_7#39_H37Rv,24-Oct-08,26,F,0,1,MDR,1,,Beijing,1,H,6,877,population level study,1
+CA103M_1,878,14722_7#3_H37Rv,30-Nov-11,41,F,0,0,MDR,0,0,T,32,E,5,,household follow-up,
+CA0423608,4236-8,14722_7#40_H37Rv,31-Oct-08,33,M,0,1,RIF MONO,1,,T,2,B,1,453,population level study,3
+CA0050409,504-9,14722_7#41_H37Rv,28-Jan-09,53,F,0,1,MDR,1,,LAM,2,B,2,890,population level study,1
+CA0427008,4270-8,14722_7#42_H37Rv,10-Mar-08,40,M,0,0,RIF MONO,1,,Haarlem,2,B,2,155,population level study,1
+CA0430308,4303-8,14722_7#43_H37Rv,11-May-08,71,M,0,0,INH MONO,1,,LAM,2,B,6,839,population level study,1
+CA0059409,594-9,14722_7#44_H37Rv,29-Jan-09,26,M,0,0,MDR,1,,T,2,B,7,484,population level study,15
+CA0059809,598-9,14722_7#45_H37Rv,02-Feb-09,57,M,0,0,MDR,1,,LAM,2,C,2,594,population level study,3
+CA0059909,599-9,14722_7#46_H37Rv,03-Sep-09,32,M,0,0,MDR,1,,Haarlem,2,C,3,241,population level study,41
+CA0061109,611-9,14722_7#47_H37Rv,29-Jan-09,54,F,0,0,INH MONO,1,,Haarlem,2,D,3,218,population level study,12
+CA0069609,696-9,14722_7#48_H37Rv,04-Feb-09,28,F,0,1,MDR,1,,LAM,2,D,7,611,population level study,9
+CA0069709,697-9,14722_7#49_H37Rv,30-Jan-09,33,F,0,0,INH MONO,1,,Other Small Clades,2,E,1,558,population level study,16
+CA092M_1,886,14722_7#4_H37Rv,02-Jan-12,26,M,0,0,MDR,1,1,LAM,30,G,4,,household follow-up,
+CA0085209,852-9,14722_7#50_H37Rv,12-Feb-09,41,M,0,1,MDR,1,,LAM,2,G,1,723,population level study,1
+CA0462008,4620-8,14722_7#51_H37Rv,24-Nov-08,19,F,0,0,INH MONO,1,,Haarlem,2,G,7,218,population level study,12
+CA0460708,4607-8,14722_7#52_H37Rv,11-Oct-08,,M,0,1,MDR,1,,LAM,3,A,3,836,population level study,27
+LI2021309,213,14722_7#53_H37Rv,26-Feb-09,57,F,0,1,RIF MONO,1,,Other Small Clades,3,A,4,806,population level study,1
+CA0473508,4735-8,14722_7#54_H37Rv,28-Nov-09,43,F,0,0,INH MONO,1,,LAM,3,A,4,649,population level study,101
+CA0092009,920-9,14722_7#55_H37Rv,06-Feb-09,75,M,0,0,INH MONO,1,,LAM,3,A,6,988,population level study,1
+CA0474208,4742-8,14722_7#56_H37Rv,27-Nov-08,49,F,0,0,INH MONO,1,,LAM,3,A,7,649,population level study,101
+CA0486408,4864-8,14722_7#57_H37Rv,12-Jan-09,42,M,0,0,INH MONO,1,,LAM,3,B,7,649,population level study,101
+CA0103109,1031-9,14722_7#58_H37Rv,13-Feb-09,25,M,0,0,MDR,1,,Other Small Clades,3,C,2,558,population level study,16
+CA0490008,4900-8,14722_7#59_H37Rv,12-May-08,,F,0,1,MDR,1,,LAM,3,C,3,649,population level study,101
+CA104M_1,896,14722_7#5_H37Rv,26-Dec-11,14,F,0,0,MDR,1,3,LAM,30,F,5,,household follow-up,
+CA0490408,4904-8,14722_7#60_H37Rv,12-Sep-08,23,M,0,1,MDR,1,,LAM,3,C,7,611,population level study,9
+LI2026009,260,14722_7#61_H37Rv,03-Sep-09,16,F,0,0,INH MONO,1,,Other Small Clades,3,D,4,558,population level study,16
+LI2026309,263,14722_7#62_H37Rv,28-Feb-09,27,M,0,0,MDR,1,,Beijing,3,D,5,887,population level study,5
+CA0121209,1212-9,14722_7#63_H37Rv,27-Feb-09,43,M,0,1,MDR,1,,LAM,3,E,6,635,population level study,1
+LI2029109,291,14722_7#64_H37Rv,03-Dec-09,47,M,0,1,INH MONO,1,,LAM,3,F,7,963,population level study,1
+CA0135809,1358-9,14722_7#65_H37Rv,05-Mar-09,27,F,0,0,MDR,1,,LAM,3,G,3,728,population level study,9
+CA0137309,1373-9,14722_7#66_H37Rv,09-Mar-09,21,M,0,0,MDR,1,,Other Small Clades,3,G,7,558,population level study,16
+CA0138309,1383-9,14722_7#67_H37Rv,11-Mar-09,27,F,0,0,MDR,1,,LAM,4,A,1,819,population level study,1
+LI2031409,314,14722_7#68_H37Rv,21-Mar-09,28,F,0,0,SENSITIVE,1,,LAM,4,A,6,638,population level study,1
+CA0146809,1468-9,14722_7#69_H37Rv,11-Mar-09,39,M,0,0,INH MONO,0,,LAM,4,B,1,836,population level study,27
+LS058M_1,1064,14722_7#6_H37Rv,23-Feb-12,62,F,0,0,MDR,1,2,LAM,35,B,8,,household follow-up,
+LI2032709,327,14722_7#70_H37Rv,18-Mar-09,,M,0,0,INH MONO,1,,Other Small Clades,4,C,1,792,population level study,18
+CA0158409,1584-9,14722_7#71_H37Rv,14-Mar-09,19,F,0,0,INH MONO,1,,LAM,4,C,5,615,population level study,3
+CA0136109,1361-9,14722_7#72_H37Rv,04-Mar-09,46,F,0,1,MDR,1,,T,3,G,5,476,population level study,1
+CA0165409,1654-9,14722_7#73_H37Rv,19-Mar-09,37,M,0,0,SENSITIVE,1,,Haarlem,4,E,1,288,population level study,1
+LI2037009,370,14722_7#74_H37Rv,30-Mar-09,39,F,0,1,MDR,1,,Haarlem,4,F,4,275,population level study,1
+CA0183209,1832-9,14722_7#75_H37Rv,31-Mar-09,35,F,0,0,INH MONO,0,,Haarlem,4,G,1,203,population level study,1
+CA0184109,1841-9,14722_7#76_H37Rv,30-Mar-09,81,M,0,0,MDR,1,,Other Small Clades,5,A,2,70,population level study,5
+LI2041509,415,14722_7#77_H37Rv,04-Mar-09,22,F,0,0,MDR,1,,T,5,B,3,484,population level study,15
+CA0192609,1926-9,14722_7#78_H37Rv,06-Apr-09,23,F,0,0,MDR,1,,Beijing,5,B,7,887,population level study,5
+CA0194509,1945-9,14722_7#79_H37Rv,04-Apr-09,,M,0,0,INH MONO,1,,LAM,5,C,5,647,population level study,1
+CA095M_1,1206,14722_7#7_H37Rv,28-Nov-11,22,M,1,0,MDR,1,1,Other Small Clades,42,G,5,,household follow-up,
+LI2043109,431,14722_7#80_H37Rv,04-Nov-09,19,M,0,0,INH MONO,1,,LAM,5,C,7,55,population level study,1
+LI2043209,432,14722_7#81_H37Rv,13-Apr-09,55,M,0,1,RIF MONO,1,,Haarlem,5,D,1,12,population level study,2
+CA0199409,1994-9,14722_7#82_H37Rv,08-Apr-09,49,M,0,0,MDR,1,,T,5,D,1,484,population level study,15
+CA0199909,1999-9,14722_7#83_H37Rv,13-Apr-09,46,F,0,0,MDR,1,,Haarlem,5,D,4,190,population level study,2
+CA0201509,2015-9,14722_7#84_H37Rv,15-Apr-09,33,M,0,0,MDR,1,,LAM,5,D,6,611,population level study,9
+CA0201709,2017-9,14722_7#85_H37Rv,15-Apr-09,21,M,0,0,SENSITIVE,1,,Other Small Clades,5,D,7,558,population level study,16
+CA0213209,2132-9,14722_7#86_H37Rv,21-Apr-09,18,M,0,0,MDR,0,,LAM,5,E,6,836,population level study,27
+CA0216509,2165-9,14722_7#87_H37Rv,17-Apr-09,29,M,0,1,MDR,1,,T,5,F,2,484,population level study,15
+LI2045709,457,14722_7#88_H37Rv,14-Apr-09,25,M,0,0,INH MONO,1,,Haarlem,5,F,4,364,population level study,2
+CA0223409,2234-9,14722_7#89_H37Rv,23-Apr-09,74,F,0,0,INH MONO,1,,LAM,5,G,6,406,population level study,1
+CA131M_1,1294,14722_7#8_H37Rv,28-Dec-11,64,F,0,0,MDR,1,1,T,51,B,5,,household follow-up,
+LI2047009,470,14722_7#90_H37Rv,16-Apr-09,39,M,0,0,MDR,1,,Other Small Clades,5,G,6,97,population level study,6
+CA0231709,2317-9,14722_7#91_H37Rv,22-Apr-09,52,M,0,1,INH MONO,1,,LAM,6,A,2,649,population level study,101
+CA0232609,2326-9,14722_7#92_H37Rv,29-Apr-09,62,M,1,1,SENSITIVE,0,,LAM,6,A,5,836,population level study,27
+CA0233609,2336-9,14722_7#93_H37Rv,24-Apr-09,46,M,0,1,INH MONO,1,,Haarlem,6,A,6,14,population level study,4
+CA0234509,2345-9,14722_7#94_H37Rv,22-Apr-09,38,F,0,0,MDR,1,,LAM,6,A,7,642,population level study,1
+CA0243609,2436-9,14722_7#95_H37Rv,12-Oct-09,19,M,0,0,MDR,1,,Other Small Clades,6,D,1,558,population level study,16
+CA133M_1,1462,14722_7#9_H37Rv,24-Apr-12,17,M,0,0,MDR,1,2,Beijing,47,A,4,,household follow-up,
+LS028M_1,273,14722_8#10_H37Rv,12-Aug-11,22,M,0,0,MDR,1,1,LAM,9,G,1,,household follow-up,
+LS039M_1,274,14722_8#11_H37Rv,22-Aug-11,20,F,0,0,MDR,0,0,LAM,9,G,2,,household follow-up,
+CA060M_1,281,14722_8#12_H37Rv,30-Sep-10,28,M,0,0,MDR,1,3,LAM,9,H,1,,household follow-up,
+CA064M_3,400,14722_8#13_H37Rv,31-May-11,31,M,0,0,MDR,1,1,Beijing,12,H,2,,household follow-up,
+CA058M_1,404,14722_8#14_H37Rv,09-Aug-11,21,M,0,0,MDR,1,3,LAM,12,H,4,,household follow-up,
+CA061M_1,405,14722_8#15_H37Rv,17-Aug-11,18,M,0,0,MDR,1,1,LAM,11,G,1,,household follow-up,
+LS042M_1,407,14722_8#16_H37Rv,08-Jul-11,26,M,0,0,MDR,1,2,Haarlem,15,H,6,,household follow-up,
+CA065M_1,413,14722_8#17_H37Rv,18-Aug-11,29,F,0,1,MDR,1,1,LAM,12,A,4,,household follow-up,
+CA066M_1,414,14722_8#18_H37Rv,23-May-11,25,M,0,0,MDR,0,0,LAM,12,A,5,,household follow-up,
+CA029M_1,424,14722_8#19_H37Rv,07-Jul-11,58,M,0,1,MDR,1,2,Haarlem,12,B,6,,household follow-up,
+LS003M_1,243,14722_8#1_H37Rv,10-May-11,16,M,0,1,MDR,1,3,T,8,D,6,,household follow-up,
+CA068M_1,425,14722_8#20_H37Rv,02-Aug-11,16,F,0,1,MDR,1,2,LAM,12,B,7,,household follow-up,
+CA087M_1,428,14722_8#21_H37Rv,14-Apr-11,76,M,0,1,MDR,1,2,LAM,15,C,2,,household follow-up,
+CA049M_1,431,14722_8#22_H37Rv,10-Jun-11,24,F,0,1,MDR,1,2,LAM,12,C,5,,household follow-up,
+LS033M_4,432,14722_8#23_H37Rv,28-Apr-10,26,F,0,1,MDR,1,2,LAM,13,C,6,,household follow-up,
+LS043M_1,434,14722_8#24_H37Rv,16-Dec-10,27,F,0,1,MDR,1,3,LAM,16,F,2,,household follow-up,
+LS045M_1,435,14722_8#25_H37Rv,03-Aug-11,19,M,0,0,MDR,1,2,LAM,15,C,8,,household follow-up,
+LS077M_1,436,14722_8#26_H37Rv,10-Feb-11,31,F,0,0,MDR,0,0,LAM,12,D,1,,household follow-up,
+LS027M_1,437,14722_8#27_H37Rv,17-Oct-11,15,F,0,0,MDR,0,0,LAM,12,D,2,,household follow-up,
+CA149M_1,439,14722_8#28_H37Rv,11-Jul-11,28,M,0,0,MDR,1,2,LAM,17,H,4,,household follow-up,
+CA098M_1,442,14722_8#29_H37Rv,02-Aug-11,25,M,0,0,MDR,1,1,LAM,16,F,4,,household follow-up,
+LS002M_1,247,14722_8#2_H37Rv,21-May-11,59,M,0,1,MDR,1,1,LAM,8,E,2,,household follow-up,
+CA072M_1,454,14722_8#30_H37Rv,15-Sep-11,16,M,0,0,MDR,1,1,LAM,15,E,5,,household follow-up,
+CA026M_1,456,14722_8#31_H37Rv,20-Sep-11,28,F,0,0,MDR,1,3,LAM,17,C,3,,household follow-up,
+LS037M_1,460,14722_8#32_H37Rv,20-Sep-11,22,M,0,0,MDR,0,0,LAM,18,C,5,,household follow-up,
+LS062M_1,462,14722_8#33_H37Rv,30-Sep-11,25,M,0,0,MDR,1,1,LAM,18,C,6,,household follow-up,
+CA071M_1,502,14722_8#34_H37Rv,05-Oct-11,17,M,0,0,MDR,1,2,LAM,17,D,7,,household follow-up,
+CA039M_3,503,14722_8#35_H37Rv,26-Sep-11,61,F,0,0,MDR,1,1,LAM,17,B,5,,household follow-up,
+CA024M_1,508,14722_8#36_H37Rv,23-Aug-11,16,M,0,0,MDR,1,3,Haarlem,17,E,4,,household follow-up,
+LS048M_1,559,14722_8#37_H37Rv,23-Oct-11,28,F,0,1,MDR,1,1,Haarlem,21,B,6,,household follow-up,
+LS056M_1,560,14722_8#38_H37Rv,26-Oct-11,19,F,0,0,MDR,1,1,Haarlem,21,A,7,,household follow-up,
+LS051M_1,828,14722_8#39_H37Rv,06-Oct-11,23,M,0,0,MDR,1,1,LAM,28,G,3,,household follow-up,
+LS035M_1,251,14722_8#3_H37Rv,03-Jun-11,27,M,0,0,MDR,1,1,LAM,12,G,6,,household follow-up,
+LS052M_1,835,14722_8#40_H37Rv,28-Oct-11,25,M,0,0,MDR,1,3,T,26,A,2,,household follow-up,
+LS055M_1,840,14722_8#41_H37Rv,16-Nov-11,22,M,0,0,MDR,1,3,LAM,26,G,8,,household follow-up,
+LS050M_1,841,14722_8#42_H37Rv,16-Nov-11,22,F,0,0,MDR,1,2,LAM,28,H,1,,household follow-up,
+LS047M_1,844,14722_8#43_H37Rv,26-Nov-11,36,M,0,0,MDR,1,1,LAM,25,A,3,,household follow-up,
+LS053M_1,845,14722_8#44_H37Rv,14-Dec-11,49,F,0,0,MDR,1,3,Haarlem,30,A,3,,household follow-up,
+CA093M_8,853,14722_8#45_H37Rv,17-Nov-11,66,F,0,0,MDR,1,3,Other Small Clades,28,A,4,,household follow-up,
+CA085M_1,855,14722_8#46_H37Rv,22-Sep-11,21,M,0,0,MDR,1,1,LAM,29,D,1,,household follow-up,
+CA083M_1,856,14722_8#47_H37Rv,09-Sep-11,53,M,0,1,MDR,1,1,LAM,28,A,6,,household follow-up,
+CA089M_1,858,14722_8#48_H37Rv,10-Sep-11,27,F,0,1,MDR,1,3,LAM,29,D,2,,household follow-up,
+CA081M_1,859,14722_8#49_H37Rv,09-Sep-11,45,M,1,0,MDR,1,3,LAM,28,A,8,,household follow-up,
+LS076M_1,252,14722_8#4_H37Rv,01-Jun-11,34,M,0,0,MDR,1,3,LAM,8,E,3,,household follow-up,
+CA086M_1,870,14722_8#50_H37Rv,29-Nov-11,35,M,0,1,MDR,1,3,LAM,29,D,4,,household follow-up,
+CA080M_1,872,14722_8#51_H37Rv,17-Oct-11,30,M,0,0,MDR,1,2,Other Small Clades,29,C,3,,household follow-up,
+CA082M_1,875,14722_8#52_H37Rv,05-Aug-11,79,F,0,1,MDR,1,2,LAM,34,E,6,,household follow-up,
+CA102M_1,876,14722_8#53_H37Rv,19-Aug-11,21,F,0,0,MDR,1,1,LAM,29,C,5,,household follow-up,
+LS057M_1,877,14722_8#54_H37Rv,28-Dec-10,21,M,0,0,MDR,1,3,LAM,29,D,5,,household follow-up,
+CA156M_1,879,14722_8#55_H37Rv,09-Dec-11,32,M,0,0,MDR,1,2,Beijing,29,D,6,,household follow-up,
+CA101M_1,880,14722_8#56_H37Rv,12-Dec-11,46,M,0,1,MDR,1,2,LAM,29,D,7,,household follow-up,
+CA094M_1,882,14722_8#57_H37Rv,30-Dec-11,30,F,0,1,MDR,1,3,LAM,29,E,1,,household follow-up,
+CA106M_1,884,14722_8#58_H37Rv,03-Jan-12,13,F,0,0,MDR,1,2,LAM,29,E,3,,household follow-up,
+CA088M_2,888,14722_8#59_H37Rv,06-Jan-12,19,F,0,0,MDR,1,1,LAM,29,E,6,,household follow-up,
+LS010M_1,255,14722_8#5_H37Rv,13-Jun-11,63,F,0,1,MDR,0,0,LAM,8,E,5,,household follow-up,
+CA090M_1,895,14722_8#60_H37Rv,20-Dec-11,24,M,0,0,MDR,1,1,LAM,29,F,4,,household follow-up,
+CA120M_1,898,14722_8#61_H37Rv,18-Jan-12,37,M,1,1,MDR,1,2,LAM,30,F,7,,household follow-up,
+CA091M_1,903,14722_8#62_H37Rv,10-Oct-08,54,M,0,0,MDR,1,2,T,30,G,6,,household follow-up,
+CA096M_1,906,14722_8#63_H37Rv,23-Sep-11,43,M,1,0,MDR,1,1,T,30,G,2,,household follow-up,
+LS094M_1,913,14722_8#64_H37Rv,10-Nov-07,26,M,0,1,MDR,,,Beijing,34,F,1,,household follow-up,
+CA109M_1,1053,14722_8#65_H37Rv,24-Jan-12,22,M,0,0,MDR,1,3,LAM,33,B,2,,household follow-up,
+CA107M_1,1055,14722_8#66_H37Rv,22-Dec-11,37,F,0,1,MDR,0,0,LAM,33,B,4,,household follow-up,
+CA113M_1,1057,14722_8#67_H37Rv,08-Nov-11,47,M,0,0,MDR,1,2,LAM,36,D,2,,household follow-up,
+CA108M_1,1059,14722_8#68_H37Rv,23-Nov-11,66,M,0,0,MDR,1,2,LAM,35,B,1,,household follow-up,
+LS068M_1,1065,14722_8#69_H37Rv,08-Feb-12,17,M,0,0,MDR,1,3,LAM,35,C,1,,household follow-up,
+LS012M_5,256,14722_8#6_H37Rv,24-Jun-11,21,M,0,1,MDR,1,2,LAM,9,E,6,,household follow-up,
+LS059M_1,1066,14722_8#70_H37Rv,23-Feb-12,33,F,0,1,MDR,1,3,LAM,35,C,2,,household follow-up,
+CA116M_1,1156,14722_8#71_H37Rv,13-Dec-11,29,M,0,0,MDR,0,0,Haarlem,37,H,8,,household follow-up,
+CA112M_1,1160,14722_8#72_H37Rv,13-Dec-11,33,M,1,0,MDR,1,2,Haarlem,39,H,7,,household follow-up,
+CA117M_1,1161,14722_8#73_H37Rv,26-Dec-11,29,M,0,0,MDR,1,3,LAM,36,F,7,,household follow-up,
+CA114M_1,1162,14722_8#74_H37Rv,20-Dec-11,18,F,0,1,MDR,1,3,T,40,C,1,,household follow-up,
+CA125M_1,1165,14722_8#75_H37Rv,05-Mar-12,45,M,1,1,MDR,1,1,LAM,36,A,2,,household follow-up,
+CA129M_1,1166,14722_8#76_H37Rv,20-Feb-12,42,M,1,0,MDR,1,3,Haarlem,39,H,8,,household follow-up,
+CA118M_1,1173,14722_8#77_H37Rv,05-Mar-12,24,F,0,0,MDR,1,2,LAM,38,A,5,,household follow-up,
+CA126M_5,1293,14722_8#78_H37Rv,04-Apr-12,54,F,0,0,MDR,1,1,LAM,47,H,5,,household follow-up,
+CA129M_5,1301,14722_8#79_H37Rv,09-Mar-12,34,F,1,0,MDR,1,1,Haarlem,40,E,6,,household follow-up,
+LS020M_1,257,14722_8#7_H37Rv,27-Jun-11,18,F,0,1,MDR,1,3,Beijing,9,E,7,,household follow-up,
+CA130M_1,1305,14722_8#80_H37Rv,29-Mar-12,28,M,0,1,MDR,1,3,LAM,40,E,8,,household follow-up,
+CA161M_1,1306,14722_8#81_H37Rv,13-Apr-12,31,M,0,0,MDR,0,0,T,40,F,1,,household follow-up,
+CA128M_1,1311,14722_8#82_H37Rv,31-Jan-12,25,M,0,0,MDR,1,3,LAM,40,F,3,,household follow-up,
+CA136M_1,1412,14722_8#83_H37Rv,28-Apr-12,48,M,1,0,MDR,0,0,LAM,44,D,4,,household follow-up,
+LS078M_1,1472,14722_8#84_H37Rv,05-May-12,20,F,0,0,MDR,1,1,LAM,50,B,6,,household follow-up,
+CA060M_4,1521,14722_8#85_H37Rv,09-May-12,21,M,0,1,MDR,1,2,LAM,49,H,4,,household follow-up,
+CA135M_6,1525,14722_8#86_H37Rv,15-May-12,20,F,0,0,MDR,1,1,Other Small Clades,49,H,8,,household follow-up,
+CA139M_1,1669,14722_8#87_H37Rv,01-Jun-12,20,F,0,0,MDR,1,1,LAM,53,B,1,,household follow-up,
+CA150M_1,1762,14722_8#88_H37Rv,07-Jul-12,56,F,0,0,MDR,1,1,Other Small Clades,63,A,6,,household follow-up,
+LS080M_1,1775,14722_8#89_H37Rv,17-Jul-12,33,M,0,1,MDR,1,3,LAM,61,F,8,,household follow-up,
+LS011M_4,259,14722_8#8_H37Rv,06-Jul-11,36,M,0,1,MDR,1,1,LAM,9,E,8,,household follow-up,
+CA153M_1,1851,14722_8#90_H37Rv,22-Aug-12,23,M,0,1,MDR,0,0,LAM,62,B,8,,household follow-up,
+CA157M_1,2088,14722_8#91_H37Rv,12-Sep-12,22,M,0,0,MDR,1,1,LAM,69,G,1,,household follow-up,
+CA060M_3,415,14722_8#92_H37Rv,23-May-11,21,M,0,1,MDR,0,0,LAM,14,A,6,,household follow-up,
+LS013M_1,173,14722_8#93_H37Rv,12-Feb-11,29,M,0,0,MDR,1,3,Haarlem,7,G,5,,household follow-up,
+LS034M_2,174,14722_8#94_H37Rv,17-Feb-11,15,M,0,1,MDR,1,1,LAM,8,G,6,,household follow-up,
+LS063M_1,1535,14722_8#95_H37Rv,05-Jun-12,23,M,0,0,MDR,0,0,Other Small Clades,52,C,2,,household follow-up,
+CA047M_1,268,14722_8#9_H37Rv,27-Jul-06,28,M,0,1,MDR,1,1,LAM,8,F,6,,household follow-up,
+LI2064909,649,14892_2#10_H37Rv,05-Dec-09,39,M,0,0,INH MONO,1,,Haarlem,7,E,7,187,population level study,5
+CA0341709,3417-9,14892_2#11_H37Rv,02-Jun-09,32,F,0,0,INH MONO,1,,LAM,7,F,3,649,population level study,101
+LI2073909,739,14892_2#12_H37Rv,20-May-09,24,M,0,1,MDR,1,,Beijing,8,D,6,876,population level study,1
+LI2075209,752,14892_2#13_H37Rv,20-May-09,24,F,0,1,RIF MONO,1,,,8,E,3,87,population level study,2
+CA0513309,5133-9,14892_2#15_H37Rv,22-Jul-09,20,F,0,1,INH MONO,1,,Other Small Clades,8,F,5,555,population level study,5
+CA0444309,4443-9,14892_2#16_H37Rv,02-Jul-09,31,M,0,1,MDR,1,,LAM,9,A,3,836,population level study,27
+CA0452509,4525-9,14892_2#17_H37Rv,07-Jul-09,51,M,0,1,INH MONO,1,,LAM,9,A,6,601,population level study,2
+LI2083009,830,14892_2#18_H37Rv,06-Jan-09,26,M,0,0,INH MONO,1,,Haarlem,9,C,2,262,population level study,3
+LI2051909,519,14892_2#1_H37Rv,23-Apr-09,55,M,0,1,MDR,1,,LAM,6,D,7,649,population level study,101
+LI2083609,836,14892_2#20_H37Rv,06-May-09,20,M,0,0,SENSITIVE,1,,T,9,C,7,596,population level study,1
+CA0556509,5565-9,14892_2#21_H37Rv,08-Aug-09,,M,0,1,INH MONO,1,,LAM,9,F,3,615,population level study,3
+LI2088309,883,14892_2#22_H37Rv,06-Aug-09,22,M,0,0,INH MONO,1,,Other Small Clades,9,G,1,558,population level study,16
+LI2091409,914,14892_2#23_H37Rv,06-Nov-09,55,M,0,1,INH MONO,1,,LAM,10,B,1,649,population level study,101
+LI2V01609,V016,14892_2#25_H37Rv,16-Jun-09,34,M,0,0,SENSITIVE,1,,LAM,10,E,5,664,population level study,1
+LI2V04009,V040,14892_2#26_H37Rv,08-Dec-09,29,M,0,0,INH MONO,1,,Haarlem,10,H,2,253,population level study,6
+LI2V05209,V052,14892_2#27_H37Rv,24-Jun-09,55,F,0,0,RIF MONO,1,,Haarlem,10,H,7,253,population level study,6
+LI2V05709,V057,14892_2#28_H37Rv,30-Jun-09,16,F,0,0,MDR,1,,LAM,11,A,2,649,population level study,101
+LI2097609,976,14892_2#29_H37Rv,26-Jun-09,41,M,0,1,MDR,1,,LAM,11,B,1,836,population level study,27
+LI2055309,553,14892_2#2_H37Rv,05-Apr-09,21,M,0,0,INH MONO,1,,Beijing,6,G,5,875,population level study,100
+LI2100209,1002,14892_2#30_H37Rv,07-Jul-09,20,M,0,1,INH MONO,1,,Haarlem,11,B,2,364,population level study,2
+LI2101209,1012,14892_2#31_H37Rv,30-Jun-09,71,M,0,0,INH MONO,1,,LAM,11,B,4,912,population level study,7
+CA0714909,7149-9,14892_2#32_H37Rv,17-Sep-09,55,F,0,1,MDR,0,,LAM,11,C,5,636,population level study,3
+LI2101109,1011,14892_2#33_H37Rv,07-Jan-09,52,M,0,1,INH MONO,1,,LAM,11,H,5,836,population level study,27
+LI2100009,1000,14892_2#34_H37Rv,26-Jun-09,28,F,0,1,MDR,1,,LAM,12,A,3,836,population level study,27
+CA0825409,8254-9,14892_2#35_H37Rv,19-Oct-09,47,F,0,0,MDR,1,,LAM,12,C,2,830,population level study,1
+LI2102709,1027,14892_2#36_H37Rv,26-Jun-09,37,F,0,0,INH MONO,1,,Haarlem,13,B,1,330,population level study,2
+LI2119309,1193,14892_2#37_H37Rv,08-Jan-09,33,M,0,0,INH MONO,1,,LAM,13,B,2,649,population level study,101
+LI2137509,1375,14892_2#39_H37Rv,25-Aug-09,21,M,0,1,MDR,1,,LAM,13,C,7,833,population level study,9
+CA0623209,6232-9,14892_2#40_H37Rv,26-Aug-09,17,M,0,0,INH MONO,0,,LAM,14,A,1,615,population level study,3
+LI2161209,1612,14892_2#41_H37Rv,24-Sep-09,25,F,0,0,MDR,1,,Haarlem,14,C,5,241,population level study,41
+LI2165009,1650,14892_2#42_H37Rv,30-Sep-09,28,F,0,1,INH MONO,1,,LAM,14,E,4,650,population level study,4
+LI2168209,1682,14892_2#43_H37Rv,10-Dec-09,24,M,0,0,MDR,1,,LAM,14,G,3,833,population level study,9
+LI2139209,1392,14892_2#44_H37Rv,26-Aug-09,21,M,0,0,SENSITIVE,1,,Other Small Clades,15,B,4,799,population level study,1
+CA0118710,1187-0,14892_2#45_H37Rv,28-Jan-10,29,M,0,1,MDR,1,,LAM,15,F,2,836,population level study,27
+CA0149210,1492-0,14892_2#46_H37Rv,05-Feb-10,25,F,0,0,INH MONO,0,,Other Small Clades,15,G,7,557,population level study,1
+CA0135810,1358-0,14892_2#48_H37Rv,01-Feb-10,25,F,0,0,INH MONO,1,,Haarlem,16,E,7,254,population level study,22
+CA0176210,1762-0,14892_2#49_H37Rv,12-Feb-10,63,F,0,1,INH MONO,1,,T,16,H,4,441,population level study,1
+CA0284309,2843-9,14892_2#4_H37Rv,19-May-09,23,M,0,0,INH MONO,1,,LAM,7,A,2,649,population level study,101
+LI2190409,1904,14892_2#50_H37Rv,13-Nov-09,29,F,0,0,MDR,1,,LAM,17,D,6,649,population level study,101
+LI2191409,1914,14892_2#51_H37Rv,11-Nov-09,20,F,0,1,MDR,1,,LAM,17,E,4,827,population level study,6
+CA0193910,1939-0,14892_2#52_H37Rv,17-Feb-10,32,M,0,1,INH MONO,1,,LAM,17,G,2,619,population level study,1
+CA0986509,9865-9,14892_2#53_H37Rv,23-Nov-09,39,M,0,0,INH MONO,1,,LAM,18,A,4,649,population level study,101
+CA0114310,1143-0,14892_2#54_H37Rv,25-Jan-10,54,M,0,0,INH MONO,1,,Haarlem,18,C,5,172,population level study,7
+LI2114009,1140,14892_2#57_H37Rv,18-Jul-09,23,M,0,0,INH MONO,1,,Haarlem,20,B,7,124,population level study,1
+LI2116609,1166,14892_2#58_H37Rv,24-Jul-09,23,F,0,0,MDR,1,,LAM,20,C,3,728,population level study,9
+LI2129209,1292,14892_2#59_H37Rv,13-Aug-09,31,M,0,0,RIF MONO,0,,T,20,D,6,347,population level study,23
+LI2059909,599,14892_2#5_H37Rv,05-May-09,27,M,0,1,MDR,1,,Beijing,7,B,7,875,population level study,100
+LI2139309,1393,14892_2#60_H37Rv,25-Aug-09,33,F,0,0,INH MONO,1,,LAM,20,F,2,946,population level study,1
+LI2171409,1714,14892_2#61_H37Rv,13-Oct-09,39,M,0,1,INH MONO,1,,Other Small Clades,20,H,2,97,population level study,6
+CA001M_1,1,14892_2#63_H37Rv,08-Feb-11,25,M,0,0,MDR,1,3,Beijing,1,A,1,,household follow-up,
+CA035M_1,8,14892_2#64_H37Rv,10-Jun-11,20,M,0,1,MDR,1,3,LAM,1,A,8,,household follow-up,
+CA007M_1,13,14892_2#65_H37Rv,04-Aug-10,14,M,0,1,MDR,1,3,Other Small Clades,1,B,5,,household follow-up,
+CA006M_1,22,14892_2#66_H37Rv,03-Feb-11,42,F,0,0,MDR,,,LAM,1,C,6,,household follow-up,
+CA008M_3,25,14892_2#67_H37Rv,17-Feb-11,17,F,0,1,MDR,1,2,LAM,1,D,1,,household follow-up,
+CA039M_1,27,14892_2#68_H37Rv,05-Sep-09,35,M,1,0,MDR,1,2,Other Small Clades,1,D,3,,household follow-up,
+CA019M_1,28,14892_2#69_H37Rv,09-Dec-10,67,F,0,0,MDR,1,2,LAM,1,D,4,,household follow-up,
+CA009M_1,29,14892_2#70_H37Rv,14-Dec-10,27,M,0,0,MDR,1,2,LAM,2,D,5,,household follow-up,
+CA088M_1,31,14892_2#71_H37Rv,29-Nov-10,25,F,0,0,MDR,1,3,LAM,2,D,7,,household follow-up,
+CA018M_1,32,14892_2#72_H37Rv,23-Jun-09,43,F,0,1,MDR,1,2,Other Small Clades,2,D,8,,household follow-up,
+CA020M_1,35,14892_2#73_H37Rv,21-Dec-10,50,M,0,0,MDR,1,3,Haarlem,2,E,3,,household follow-up,
+CA015M_1,37,14892_2#74_H37Rv,10-Jan-11,28,F,0,1,MDR,1,3,Haarlem,2,E,5,,household follow-up,
+CA014M_1,40,14892_2#75_H37Rv,22-Dec-09,38,M,0,1,MDR,1,2,LAM,2,E,8,,household follow-up,
+CA011M_1,42,14892_2#76_H37Rv,04-Jan-11,16,M,0,1,MDR,1,1,LAM,2,F,2,,household follow-up,
+CA055M_1,71,14892_2#77_H37Rv,12-Feb-11,23,M,0,0,MDR,0,0,LAM,3,H,5,,household follow-up,
+CA038M_1,106,14892_2#78_H37Rv,21-May-11,24,F,0,0,MDR,0,0,LAM,5,A,7,,household follow-up,
+CA033M_1,107,14892_2#79_H37Rv,20-May-11,39,F,0,1,MDR,1,2,Beijing,6,D,2,,household follow-up,
+LI2062709,627,14892_2#7_H37Rv,05-Sep-09,25,F,0,0,INH MONO,1,,Haarlem,7,C,7,212,population level study,8
+CA034M_1,120,14892_2#80_H37Rv,15-Jun-11,58,M,0,1,MDR,1,3,LAM,4,E,8,,household follow-up,
+CA042M_1,141,14892_2#81_H37Rv,11-Jun-11,31,F,0,0,MDR,1,3,LAM,5,B,1,,household follow-up,
+CA041M_1,157,14892_2#82_H37Rv,17-Jun-11,34,F,0,1,MDR,1,1,Haarlem,6,B,8,,household follow-up,
+LS017M_1,160,14892_2#83_H37Rv,07-Jan-11,30,M,0,0,MDR,1,3,Beijing,8,F,6,,household follow-up,
+LS022M_1,167,14892_2#84_H37Rv,28-Jan-11,18,M,0,1,MDR,1,2,LAM,7,G,1,,household follow-up,
+LS014M_1,169,14892_2#85_H37Rv,05-Feb-11,25,M,0,0,MDR,1,2,Haarlem,7,G,2,,household follow-up,
+LS025M_1,171,14892_2#86_H37Rv,17-Feb-11,34,F,0,1,MDR,1,3,LAM,7,G,4,,household follow-up,
+LS019M_1,227,14892_2#88_H37Rv,03-Sep-11,44,M,1,1,MDR,1,3,T,8,B,6,,household follow-up,
+LS004M_1,228,14892_2#89_H37Rv,03-Apr-11,34,F,0,0,MDR,1,3,Other Small Clades,11,B,8,,household follow-up,
+CA0321109,3211-9,14892_2#8_H37Rv,28-May-09,22,M,0,0,MDR,0,,LAM,7,D,6,649,population level study,101
+LS038M_1,229,14892_2#90_H37Rv,06-Apr-11,19,M,0,0,MDR,1,1,Haarlem,9,D,2,,household follow-up,
+LS006M_9,230,14892_2#91_H37Rv,08-Apr-11,15,M,0,0,MDR,1,1,LAM,8,B,7,,household follow-up,
+LS008M_1,233,14892_2#92_H37Rv,24-Apr-11,17,M,0,1,MDR,1,1,LAM,8,C,1,,household follow-up,
+LS021M_1,237,14892_2#93_H37Rv,27-Apr-11,31,M,0,1,MDR,1,3,T,8,C,3,,household follow-up,
+LS005M_1,238,14892_2#94_H37Rv,29-Apr-11,21,M,0,0,MDR,1,3,Haarlem,8,C,4,,household follow-up,
+LS016M_1,241,14892_2#95_H37Rv,09-May-11,31,M,0,0,MDR,1,2,LAM,8,D,4,,household follow-up,
+LI2064009,640,14892_2#9_H37Rv,05-Sep-09,29,F,0,1,MDR,1,,LAM,7,D,7,741,population level study,1
+LI2149609,1496,14893_2#10_H37Rv,09-Sep-09,46,M,0,0,MDR,1,,LAM,15,C,1,649,population level study,101
+CA0070910,709-0,14893_2#11_H37Rv,12-Jan-10,30,F,0,1,INH MONO,1,,Haarlem,15,C,1,205,population level study,1
+LI2154209,1542,14893_2#12_H37Rv,16-Sep-09,22,F,0,0,RIF MONO,1,,Haarlem,15,D,1,44,population level study,1
+CA0099710,997-0,14893_2#13_H37Rv,22-Jan-10,43,F,0,1,INH MONO,1,,LAM,15,D,7,649,population level study,101
+LI2163309,1633,14893_2#14_H37Rv,30-Sep-09,15,M,0,1,MDR,1,,Haarlem,15,E,1,64,population level study,2
+CA0141910,1419-0,14893_2#15_H37Rv,03-Feb-10,84,F,0,1,INH MONO,1,,T,15,F,6,484,population level study,15
+CA0143610,1436-0,14893_2#16_H37Rv,02-Feb-10,45,M,0,0,INH MONO,1,,Haarlem,15,G,2,753,population level study,1
+CA0146210,1462-0,14893_2#17_H37Rv,03-Feb-10,28,M,0,1,INH MONO,0,,Haarlem,15,G,3,184,population level study,32
+LI2174109,1741,14893_2#18_H37Rv,16-Oct-09,28,M,0,0,RIF MONO,1,,LAM,15,H,1,607,population level study,1
+CA0156010,1560-0,14893_2#19_H37Rv,03-Feb-10,25,M,0,1,MDR,1,,LAM,15,H,5,649,population level study,101
+LI2164309,1643,14893_2#1_H37Rv,30-Sep-09,25,F,0,0,INH MONO,1,,LAM,14,E,3,650,population level study,4
+LI2148109,1481,14893_2#20_H37Rv,09-Nov-09,22,M,0,0,INH MONO,1,,Other Small Clades,16,B,2,556,population level study,1
+LI2152009,1520,14893_2#21_H37Rv,09-Sep-09,39,M,0,0,MDR,1,,T,16,B,3,477,population level study,2
+CA0069010,690-0,14893_2#22_H37Rv,16-Jan-10,34,F,0,1,RIF MONO,1,,Other Small Clades,16,B,3,555,population level study,5
+LI2174209,1742,14893_2#23_H37Rv,16-Oct-09,33,M,0,0,RIF MONO,1,,LAM,16,C,6,605,population level study,12
+LI2178209,1782,14893_2#24_H37Rv,23-Oct-09,47,M,0,0,INH MONO,1,,LAM,16,E,1,587,population level study,1
+CA0131810,1318-0,14893_2#25_H37Rv,29-Jan-10,19,F,0,0,RIF MONO,1,,LAM,16,E,6,895,population level study,1
+CA0136410,1364-0,14893_2#26_H37Rv,02-Feb-10,29,F,0,0,MDR,1,,LAM,16,F,1,649,population level study,101
+CA0141810,1418-0,14893_2#27_H37Rv,03-Feb-10,36,M,0,1,INH MONO,0,,T,16,F,2,484,population level study,15
+CA0152310,1523-0,14893_2#28_H37Rv,NA,33,F,0,1,NO HAY,1,,T,16,F,6,508,population level study,1
+LI2185509,1855,14893_2#29_H37Rv,11-Oct-09,74,M,0,0,MDR,1,,T,16,G,1,483,population level study,1
+CA0015110,151-0,14893_2#2_H37Rv,05-Jan-10,20,M,0,0,SENSITIVE,1,,LAM,14,F,2,649,population level study,101
+CA0184710,1847-0,14893_2#30_H37Rv,11-Feb-10,29,F,0,0,RIF MONO,1,,Other Small Clades,16,H,6,780,population level study,1
+CA0855209,8552-9,14893_2#31_H37Rv,26-Oct-09,61,M,0,1,SENSITIVE,1,,Caprae,17,A,2,726,population level study,2
+CA0129310,1293-0,14893_2#32_H37Rv,02-Jan-10,27,F,0,0,INH MONO,1,,T,17,C,2,468,population level study,1
+LI2189209,1892,14893_2#33_H37Rv,14-Nov-09,,,0,0,INH MONO,1,,Haarlem,17,C,4,121,population level study,1
+LI2189509,1895,14893_2#34_H37Rv,13-Nov-09,28,F,0,0,MDR,1,,LAM,17,C,7,649,population level study,101
+CA0171210,1712-0,14893_2#35_H37Rv,11-Feb-10,33,M,0,1,INH MONO,1,,LAM,17,E,1,990,population level study,1
+LI2194009,1940,14893_2#36_H37Rv,20-Nov-09,27,F,0,0,MDR,1,,LAM,17,G,2,728,population level study,9
+CA0203110,2031-0,14893_2#37_H37Rv,18-Feb-10,61,M,0,1,MDR,1,,LAM,17,G,7,574,population level study,1
+CA0203410,2034-0,14893_2#38_H37Rv,19-Feb-10,40,M,0,0,MDR,1,,LAM,17,H,1,722,population level study,7
+CA0208110,2081-0,14893_2#39_H37Rv,17-Feb-10,24,F,0,1,INH MONO,1,,LAM,17,H,4,986,population level study,1
+CA0017810,178-0,14893_2#3_H37Rv,04-Jan-10,30,M,1,0,SENSITIVE,1,,Haarlem,14,F,4,241,population level study,41
+CA0522009,5220-9,14893_2#40_H37Rv,30-Jul-09,37,F,0,0,RIF MONO,1,,LAM,18,A,1,605,population level study,12
+LI2193609,1936,14893_2#41_H37Rv,17-Nov-09,47,F,0,0,INH MONO,1,,Haarlem,18,A,4,217,population level study,7
+LI2194309,1943,14893_2#42_H37Rv,21-Nov-09,45,M,0,1,INH MONO,1,,Haarlem,18,A,5,217,population level study,7
+LI2195209,1952,14893_2#43_H37Rv,19-Nov-09,26,M,0,1,MDR,1,,Haarlem,18,B,1,184,population level study,32
+CA0001410,14-0,14893_2#44_H37Rv,30-Dec-09,30,M,0,0,SENSITIVE,1,,LAM,18,B,4,649,population level study,101
+LI2197309,1973,14893_2#45_H37Rv,16-Nov-09,24,M,0,1,RIF MONO,1,,LAM,18,B,7,605,population level study,12
+LI2198709,1987,14893_2#46_H37Rv,25-Nov-09,29,F,0,0,MDR,1,,LAM,18,D,1,728,population level study,9
+LI2198809,1988,14893_2#47_H37Rv,25-Nov-09,,M,0,0,RIF MONO,1,,Haarlem,18,D,2,84,population level study,1
+LI2211409,2114,14893_2#48_H37Rv,15-Dec-09,68,M,0,1,RIF MONO,1,,LAM,18,F,6,828,population level study,1
+LI2203209,2032,14893_2#49_H37Rv,12-Jan-09,38,M,0,0,RIF MONO,1,,Haarlem,19,C,7,323,population level study,1
+LI2149009,1490,14893_2#4_H37Rv,09-Oct-09,,M,0,0,RIF MONO,1,,LAM,14,H,4,614,population level study,4
+LI2205109,2051,14893_2#50_H37Rv,12-Jan-09,28,M,0,0,MDR,1,,LAM,19,D,7,827,population level study,6
+LI2208109,2081,14893_2#51_H37Rv,12-Jul-09,20,F,0,0,INH MONO,1,,Other Small Clades,19,F,3,558,population level study,16
+LI2214309,2143,14893_2#52_H37Rv,17-Dec-09,20,F,0,1,RIF MONO,1,,T,19,G,6,347,population level study,23
+LI2215609,2156,14893_2#53_H37Rv,19-Dec-09,27,F,0,0,INH MONO,1,,LAM,19,H,4,628,population level study,2
+LI2216109,2161,14893_2#54_H37Rv,21-Dec-09,19,M,0,0,MDR,1,,Beijing,19,H,7,875,population level study,100
+LI2110009,1100,14893_2#55_H37Rv,16-Jul-09,24,M,0,0,MDR,1,,Beijing,20,A,4,875,population level study,100
+LI2117909,1179,14893_2#56_H37Rv,30-Jul-09,33,F,0,0,MDR,1,,LAM,20,C,5,409,population level study,2
+LI2144609,1446,14893_2#57_H37Rv,09-Mar-09,25,F,0,0,SENSITIVE,1,,Haarlem,20,F,4,349,population level study,1
+LI2131709,1317,14893_2#58_H37Rv,18-Aug-09,24,F,0,0,MDR,1,,LAM,21,A,4,836,population level study,27
+LI2147009,1470,14893_2#59_H37Rv,09-Aug-09,34,,0,0,MDR,1,,LAM,21,B,1,836,population level study,27
+LI2150209,1502,14893_2#5_H37Rv,09-Oct-09,70,M,0,0,SENSITIVE,1,,EAI2-Manilla,14,H,5,34,population level study,1
+LI2203009,2030,14893_2#60_H37Rv,12-Mar-09,18,F,0,0,SENSITIVE,1,,Haarlem,21,F,2,257,population level study,1
+LI2071909,719,14893_2#61_H37Rv,18-May-09,23,F,0,0,MDR,1,,LAM,21,F,4,742,population level study,1
+LI2120009,1200,14893_2#62_H37Rv,08-Jan-09,35,M,0,1,MDR,1,,LAM,21,G,6,951,population level study,2
+LI2121309,1213,14893_2#63_H37Rv,08-Jan-09,20,M,0,0,MDR,0,,Haarlem,21,G,7,360,population level study,2
+LI2133609,1336,14893_2#64_H37Rv,19-Aug-09,24,M,0,0,MDR,1,,Haarlem,21,H,5,331,population level study,1
+LI2149109,1491,14893_2#65_H37Rv,09-Dec-09,63,F,0,0,INH MONO,1,,LAM,22,A,5,649,population level study,101
+LI2196809,1968,14893_2#66_H37Rv,18-Nov-09,35,M,0,0,MDR,1,,LAM,22,D,4,727,population level study,1
+CA0142310,1423-0,14893_2#67_H37Rv,04-Feb-10,17,M,0,0,INH MONO,1,,Haarlem,,,,241,population level study,41
+CA063M_1,11,14893_2#68_H37Rv,09-Feb-11,43,M,1,1,MDR,1,2,LAM,1,B,3,,household follow-up,
+CA002M_1,16,14893_2#69_H37Rv,07-Feb-11,22,F,0,0,MDR,1,1,LAM,1,B,8,,household follow-up,
+LI2100809,1008,14893_2#6_H37Rv,07-Mar-09,35,M,0,0,MDR,1,,Haarlem,15,A,1,218,population level study,12
+CA027M_4,39,14893_2#70_H37Rv,19-Jan-11,63,F,0,0,MDR,1,2,T,2,E,7,,household follow-up,
+CA021M_5,47,14893_2#71_H37Rv,21-Mar-11,24,F,0,0,MDR,1,3,Haarlem,2,F,7,,household follow-up,
+CA013M_1,54,14893_2#72_H37Rv,30-Mar-11,26,F,0,1,MDR,1,1,T,2,G,6,,household follow-up,
+CA016M_1,58,14893_2#73_H37Rv,04-Apr-11,46,M,0,1,MDR,1,3,LAM,3,H,2,,household follow-up,
+CA017M_1,61,14893_2#74_H37Rv,19-Apr-11,38,M,0,0,MDR,1,3,Haarlem,4,C,5,,household follow-up,
+CA048M_1,62,14893_2#75_H37Rv,29-Apr-11,31,M,0,0,MDR,1,3,LAM,5,A,6,,household follow-up,
+CA053M_1,69,14893_2#76_H37Rv,01-Feb-11,44,F,0,1,MDR,1,2,Haarlem,3,H,8,,household follow-up,
+CA144M_1,72,14893_2#77_H37Rv,03-Feb-11,28,M,0,0,MDR,1,2,LAM,3,H,6,,household follow-up,
+CA056M_1,94,14893_2#78_H37Rv,15-Feb-11,53,M,0,1,MDR,1,3,Beijing,3,B,2,,household follow-up,
+CA152M_1,153,14893_2#79_H37Rv,01-Mar-11,53,M,0,0,MDR,1,3,LAM,5,B,4,,household follow-up,
+CA0055110,551-0,14893_2#7_H37Rv,14-Jan-10,56,F,0,1,MDR,1,,LAM,15,B,1,649,population level study,101
+CA037M_1,206,14893_2#80_H37Rv,28-Jun-11,28,M,0,1,MDR,1,3,LAM,6,E,4,,household follow-up,
+LS036M_1,234,14893_2#81_H37Rv,20-Apr-11,21,M,1,1,MDR,1,1,Beijing,12,G,3,,household follow-up,
+LS009M_4,235,14893_2#82_H37Rv,25-Apr-07,23,F,0,0,MDR,1,3,LAM,8,C,2,,household follow-up,
+LS001M_1,240,14893_2#83_H37Rv,30-Apr-11,21,M,0,1,MDR,1,3,Beijing,12,G,4,,household follow-up,
+LS046M_1,242,14893_2#84_H37Rv,10-May-11,73,M,0,0,MDR,,,Haarlem,8,D,5,,household follow-up,
+LS032M_1,250,14893_2#85_H37Rv,30-May-11,13,F,0,0,MDR,1,3,Other Small Clades,12,G,5,,household follow-up,
+LS015M_1,253,14893_2#86_H37Rv,04-Jun-11,34,F,0,0,MDR,1,1,Beijing,9,E,4,,household follow-up,
+LS023M_1,258,14893_2#87_H37Rv,28-Jun-11,52,F,0,0,MDR,1,1,Other Small Clades,12,G,7,,household follow-up,
+LS040M_4,260,14893_2#88_H37Rv,18-Jul-11,16,M,0,0,MDR,1,1,T,9,F,1,,household follow-up,
+LS069M_1,261,14893_2#89_H37Rv,19-Jul-11,19,F,0,0,MDR,1,1,Beijing,9,F,2,,household follow-up,
+LI2131809,1318,14893_2#8_H37Rv,15-Aug-09,38,M,0,1,MDR,1,,LAM,15,B,1,605,population level study,12
+CA043M_1,267,14893_2#90_H37Rv,26-Apr-11,19,M,0,0,MDR,1,3,Beijing,7,F,5,,household follow-up,
+CA059M_1,279,14893_2#91_H37Rv,04-Aug-07,40,M,0,0,MDR,1,2,LAM,9,G,7,,household follow-up,
+CA050M_1,510,14893_2#92_H37Rv,01-Aug-11,14,F,0,0,MDR,1,2,Other Small Clades,17,B,6,,household follow-up,
+CA084M_1,569,14893_2#93_H37Rv,07-Jul-11,59,M,0,1,MDR,1,3,Other Small Clades,26,A,6,,household follow-up,
+LS049M_1,839,14893_2#94_H37Rv,15-Nov-11,20,F,0,0,MDR,,,Haarlem,28,G,7,,household follow-up,
+CA076M_1,863,14893_2#95_H37Rv,16-Dec-11,78,M,0,1,MDR,1,3,LAM,28,B,4,,household follow-up,
+LI2134409,1344,14893_2#9_H37Rv,22-Aug-09,55,M,0,1,MDR,1,,T,15,B,3,18,population level study,1
+LS066M_1,1382,14893_3#65_H37Rv,28-Feb-12,61,M,0,1,MDR,1,2,LAM,48,F,3,,household follow-up,
+LS065M_2,1540,14893_3#66_H37Rv,11-Apr-12,22,F,0,1,MDR,1,3,T,52,C,6,,household follow-up,
+LI2076709,767,15277_3#50_H37Rv,25-May-09,38,M,0,1,RIF MONO,1,,T,8,F,3,477,population level study,2
+LI2099309,993,15277_3#52_H37Rv,23-Jun-09,24,F,0,0,MDR,0,,T,10,D,1,499,population level study,1
+LI2122909,1229,15277_3#53_H37Rv,08-Jul-09,26,M,0,0,MDR,0,,LAM,13,B,5,827,population level study,6
+LI2149909,1499,15277_3#57_H37Rv,09-Oct-09,23,M,0,0,RIF MONO,1,,LAM,22,A,6,605,population level study,12
