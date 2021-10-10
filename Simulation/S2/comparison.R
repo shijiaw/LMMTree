@@ -2,7 +2,7 @@ rm(list=ls())
 # simluate phenotype
 library("phyclust")
 library("MASS")
-library(emma)
+source("emma.R")
 #library(nlme)
 #library(lme4)
 

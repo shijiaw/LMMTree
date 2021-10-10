@@ -8,8 +8,8 @@ source("emma.R")
 
 
 N = 50
-M = 30
-nunc <- 100
+M = 100
+nunc <- 50
 #L = 500
 # P_LM <- matrix(NA, nr = N, nc = L)
 # P_LMM <- matrix(NA, nr = N, nc = L)
@@ -24,7 +24,7 @@ set.seed(321)
 for(i in 1:N){
   #readseq_dir <- paste('output_seq/seq',i ,'.txt', sep = '')
   #seq_i <- do.call(rbind,lapply(strsplit(scan(readseq_dir, what=""), ""), as.numeric))
-  readseq_dir <- paste('output_SNP/SNP',i ,'.csv', sep = '')
+  readseq_dir <- paste('output_SNP/SNP_error',i ,'.csv', sep = '')
   seq_i <- read.csv(readseq_dir, sep = ' ', header = FALSE)
   
   mean_mat <- apply(seq_i, 2, mean)
@@ -76,6 +76,6 @@ filename_LMMT = paste('Pvalue/LMMT.csv', sep = "")
 write.table(unlist(P_LMMT), file = filename_LMMT, row.names = FALSE, col.names = FALSE)
 
 for(i in 1:N){
-  filename_LMMT = paste('PvalueUncertainty/LMMTmat_', i,'csv',sep = "")
+  filename_LMMT = paste('PvalueUncertainty/LMMTmat_', i,'.csv',sep = "")
   write.table(matrix(P_LMMTmat[[i]], nr = 1), file = filename_LMMT, row.names = FALSE, col.names = FALSE)
 }

@@ -10,7 +10,7 @@ if (!file.exists('mb_tree')){
 
 N=1
 nuncertanty <- 50
-M = 469
+M = 467
 mysub <- function(test){
   test.new <- test
   index1 <- unlist(gregexpr(pattern="\\[", test,perl = TRUE)) 
@@ -33,7 +33,8 @@ cat("begin mrbayes;",file=batchname,sep="\n")
 cat("set autoclose=yes nowarn=yes;",file=batchname, sep="\n", append=TRUE)
 cat(paste("execute", file,";"),file=batchname, sep="\n",append=TRUE)
 cat("prset brlenspr=clock:uniform;",file=batchname, sep="\n",append=TRUE)
-cat("mcmc nruns=1 nchains=1 ngen=1000000 samplefreq=5000;",file=batchname, sep="\n",append=TRUE)
+cat("lset nst=6 rates=invgamma;",file=batchname, sep="\n",append=TRUE)
+cat("mcmc nruns=1 nchains=1 ngen=1000000 samplefreq=10000;",file=batchname, sep="\n",append=TRUE)
 cat("sumt burnin = 500000;",file=batchname, sep="\n",append=TRUE)
 cat("end;",file="batch.nex",append=TRUE)
 command_mb = paste("mb batch.nex > log.txt", sep = '')

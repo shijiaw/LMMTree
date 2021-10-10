@@ -8,6 +8,8 @@ N = 50
 M = 100
 L = 2000
 
+error_prob <- 0.005
+
 
 tree_Dir <- 'mkdir output_tree'
 if (!file.exists('output_tree')){
@@ -56,12 +58,24 @@ for(n in 1:N){
   tree.anc$tip.label <- paste("leaf_", tree.anc$tip.label, sep = "")
   write.tree(tree.anc, file = tree_name, digits = 12)
   seq <- simSeq(tree.anc, l = L, type="DNA", rate = 3)
+  seq_error <- seq
+  for(m in 1:M){
+    errorindex <- which(sample.int(2, size = L, replace = TRUE, prob = c(0.005, 0.995)) == 1)
+    seq_error[[m]][errorindex] <- sample.int(4, size = length(errorindex), replace = TRUE)
+  }
+  
   seq_name = paste("output_seq/seq", n, ".nex", sep = '')
+  seqerror_name = paste("output_seq/seq_error", n, ".nex", sep = '')
   write.nexus.data(toupper(seq), file = seq_name)
+  write.nexus.data(toupper(seq_error), file = seqerror_name)
   
   SNP <- DNA2SNP(as.character(seq[leaf_order,]))
   SNP_name = paste("output_SNP/SNP", n, ".csv", sep = '')
   write.table(SNP, file = SNP_name, row.names = FALSE, col.names = FALSE)
+  
+  SNP_error <- DNA2SNP(as.character(seq_error[leaf_order,]))
+  SNPerror_name = paste("output_SNP/SNP_error", n, ".csv", sep = '')
+  write.table(SNP_error, file = SNPerror_name, row.names = FALSE, col.names = FALSE)
   
   #command_seq = paste('./ms ',M,' 1  -s ', L, ' -seeds ',n,' 10 10 | tail +7 | grep -v //>output_seq/seq',n,'.txt', sep = '')
   #system(command_seq)

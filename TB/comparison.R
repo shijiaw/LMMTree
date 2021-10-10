@@ -2,13 +2,13 @@ rm(list=ls())
 # simluate phenotype
 library("phyclust")
 library("MASS")
-library(emma)
+source("emma.R")
 #library(nlme)
 #library(lme4)
 
 
 N = 1
-M = 469
+M = 467
 nunc <- 50
 #L = 500
 # P_LM <- matrix(NA, nr = N, nc = L)
@@ -31,7 +31,9 @@ for(i in 1:ncol(seq)){
 }
 
 MAF002 <- which(MAF >= 0.02)
+MAF005 <- which(MAF >= 0.005)
 write.csv(MAF002, file = "MAF002.csv")
+write.csv(MAF005, file = "MAF005.csv")
 
 #mean_mat <- apply(seq, 2, mean)
 #sd_mat <- sqrt(mean_mat*(1-mean_mat))
@@ -39,21 +41,21 @@ X <- apply(seq, 2, scale)
 #phe_name <- paste('output_phenotype/y_', i, '.csv', sep = "")
 #y <- unlist(read.csv(phe_name, sep = ",", header = FALSE))
 
-L <- length(MAF002)
+L <- length(MAF005)
 P_LMtemp <- rep(NA, L)
 P_LMMtemp <- rep(NA, L)
 P_LMMTtemp <- rep(NA, L)
 P_LMMTmattemp <- matrix(NA, nunc, L)
 
 for(l1 in 1:L){
-  out <- summary(lm(y~X[,MAF002[l1]]-1))
+  out <- summary(lm(y~X[,MAF005[l1]]-1))
   # we store the pvalue in minus log form with 10 base
   P_LMtemp[l1] <- -log10(out$coefficients[,4])
 }
 
 # LMM with GSM
 K <- X %*% t(X)/L
-rs <- emma.REML.t(matrix(y, nr = 1), t(seq[,MAF002]), K)
+rs <- emma.REML.t(matrix(y, nr = 1), t(seq[,MAF005]), K)
 #rs2 <- emma.REML.t(matrix(y, nr = 1), t(X), K)
 P_LMMtemp <- -log10(rs$ps)
 
@@ -62,12 +64,10 @@ for(index in 1:nunc){
   readK_dir <- paste('mb_tree/K_',index,'.csv', sep = '')
   #K_tree <- read.csv(readK_dir, sep = ",", header = FALSE)
   K_tree <- matrix(unlist(read.csv(readK_dir, sep = ",", header = FALSE)), nr = M)
-  rsT <- emma.REML.t(matrix(y, nr = 1), t(seq[,MAF002]), K_tree)
+  rsT <- emma.REML.t(matrix(y, nr = 1), t(seq[,MAF005]), K_tree)
   P_LMMTmattemp[index,] <- -log10(rsT$ps)
   print(index)
 }
-
-
 
 
 

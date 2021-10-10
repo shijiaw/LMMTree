@@ -32,7 +32,7 @@ for(i in 1:N){
   K_tree <- read.csv(readK_dir, sep = ",", header = FALSE)
   
   b <- mvrnorm(n = 1, mu = rep(0, M), Sigma = K_tree)*sigma_b
-  eps <- rnorm(1, mean = 0, sd = sigma_e)
+  eps <- rnorm(M, mean = 0, sd = sigma_e)
   
   y = std_mat_i[,index[i]]*beta + b + eps
   

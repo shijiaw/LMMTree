@@ -32,7 +32,7 @@ statusc = c()
   #status_mat <- matrix(0, nr = N, nc = L)
   status_mat <- list()
   for(i in 1:N){
-    readseq_dir <- paste('output_SNP/SNP',i ,'.csv', sep = '')
+    readseq_dir <- paste('output_SNP/SNP_error',i ,'.csv', sep = '')
     seq_i <- read.csv(readseq_dir, sep = ' ', header = FALSE)
     status_mat_i <- rep(0, ncol(seq_i))
     status_mat_i[SNP[i]] <- 1
