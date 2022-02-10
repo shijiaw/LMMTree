@@ -3,17 +3,18 @@ rm(list=ls())
 library("phyclust")
 library("MASS")
 source("emma.R")
+<<<<<<< HEAD
+
+
+=======
 #library(nlme)
 #library(lme4)
+>>>>>>> c3107dcd37d45ab71116b63f59ec032edcd5ad8c
 
 
 N = 1
 M = 467
 nunc <- 50
-#L = 500
-# P_LM <- matrix(NA, nr = N, nc = L)
-# P_LMM <- matrix(NA, nr = N, nc = L)
-# P_LMMT <- matrix(NA, nr = N, nc = L)
 P_LM <- list()
 P_LMM <- list()
 P_LMMT <- list()
@@ -21,7 +22,6 @@ P_LMMTmat <- list()
 
 set.seed(321)
 
-#readseq_dir <- paste('output_SNP/SNP',i ,'.csv', sep = '')
 y <- read.csv('MDR.csv', sep = ',', header = TRUE)[,-1]
 seq <- read.csv('x.csv', sep = ',', header = TRUE)[,-1]
 
@@ -35,12 +35,12 @@ MAF005 <- which(MAF >= 0.005)
 write.csv(MAF002, file = "MAF002.csv")
 write.csv(MAF005, file = "MAF005.csv")
 
-#mean_mat <- apply(seq, 2, mean)
-#sd_mat <- sqrt(mean_mat*(1-mean_mat))
 X <- apply(seq, 2, scale)
-#phe_name <- paste('output_phenotype/y_', i, '.csv', sep = "")
-#y <- unlist(read.csv(phe_name, sep = ",", header = FALSE))
 
+<<<<<<< HEAD
+
+=======
+>>>>>>> c3107dcd37d45ab71116b63f59ec032edcd5ad8c
 L <- length(MAF005)
 P_LMtemp <- rep(NA, L)
 P_LMMtemp <- rep(NA, L)
@@ -65,7 +65,11 @@ for(index in 1:nunc){
   #K_tree <- read.csv(readK_dir, sep = ",", header = FALSE)
   K_tree <- matrix(unlist(read.csv(readK_dir, sep = ",", header = FALSE)), nr = M)
   rsT <- emma.REML.t(matrix(y, nr = 1), t(seq[,MAF005]), K_tree)
+<<<<<<< HEAD
+  P_LMMTmattemp[index,] <- rsT$ps
+=======
   P_LMMTmattemp[index,] <- -log10(rsT$ps)
+>>>>>>> c3107dcd37d45ab71116b63f59ec032edcd5ad8c
   print(index)
 }
 
@@ -76,11 +80,8 @@ write.table(P_LMtemp, file = filename_LM, row.names = FALSE, col.names = FALSE)
 filename_LMM = paste('Pvalue/LMM.csv', sep = "")
 write.table(as.vector(P_LMMtemp), file = filename_LMM, row.names = FALSE, col.names = FALSE)
 filename_LMMT = paste('Pvalue/LMMT.csv', sep = "")
-write.table(apply(P_LMMTmattemp, 2, median), file = filename_LMMT, row.names = FALSE, col.names = FALSE)
+write.table(-log10(apply(P_LMMTmattemp, 2, mean)), file = filename_LMMT, row.names = FALSE, col.names = FALSE)
 filename_LMMTun = paste('Pvalue/LMMTun.csv', sep = "")
 write.table(matrix(P_LMMTmattemp, nr = 1), file = filename_LMMTun, row.names = FALSE, col.names = FALSE)
 
-#for(i in 1:N){
-#  filename_LMMT = paste('PvalueUncertainty/LMMTmat_', i,'.csv',sep = "")
-#  write.table(matrix(P_LMMTmat[[i]], nr = 1), file = filename_LMMT, row.names = FALSE, col.names = FALSE)
-#}
+
