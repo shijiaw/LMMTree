@@ -57,14 +57,14 @@ for(i in 1:N){
     #K_tree <- read.csv(readK_dir, sep = ",", header = FALSE)
     K_tree <- matrix(unlist(read.csv(readK_dir, sep = ",", header = FALSE)), nr = M)
     rsT <- emma.REML.t(matrix(y, nr = 1), t(seq_i), K_tree)
-    P_LMMTmattemp[index,] <- -log10(rsT$ps)
+    P_LMMTmattemp[index,] <- rsT$ps
   }
   print(i)
 
   
   P_LM[[i]] <- P_LMtemp
   P_LMM[[i]] <- P_LMMtemp
-  P_LMMT[[i]] <- apply(P_LMMTmattemp, 2, median)
+  P_LMMT[[i]] <- -log10(apply(P_LMMTmattemp, 2, mean))
   P_LMMTmat[[i]] <- P_LMMTmattemp
   #write.table(y, file = filename, row.names = FALSE, col.names = FALSE)
 }

@@ -3,17 +3,12 @@ rm(list=ls())
 library("phyclust")
 library("MASS")
 source("emma.R")
-#library(nlme)
-#library(lme4)
 
 
 N = 50
 M = 100
 nunc <- 50
-#L = 500
-# P_LM <- matrix(NA, nr = N, nc = L)
-# P_LMM <- matrix(NA, nr = N, nc = L)
-# P_LMMT <- matrix(NA, nr = N, nc = L)
+
 P_LM <- list()
 P_LMM <- list()
 P_LMMT <- list()
@@ -22,8 +17,6 @@ P_LMMTmat <- list()
 set.seed(321)
 
 for(i in 1:N){
-  #readseq_dir <- paste('output_seq/seq',i ,'.txt', sep = '')
-  #seq_i <- do.call(rbind,lapply(strsplit(scan(readseq_dir, what=""), ""), as.numeric))
   readseq_dir <- paste('output_SNP/SNP_error',i ,'.csv', sep = '')
   seq_i <- read.csv(readseq_dir, sep = ' ', header = FALSE)
   
@@ -57,14 +50,14 @@ for(i in 1:N){
     #K_tree <- read.csv(readK_dir, sep = ",", header = FALSE)
     K_tree <- matrix(unlist(read.csv(readK_dir, sep = ",", header = FALSE)), nr = M)
     rsT <- emma.REML.t(matrix(y, nr = 1), t(seq_i), K_tree)
-    P_LMMTmattemp[index,] <- -log10(rsT$ps)
+    P_LMMTmattemp[index,] <- rsT$ps
   }
   print(i)
 
   
   P_LM[[i]] <- P_LMtemp
   P_LMM[[i]] <- P_LMMtemp
-  P_LMMT[[i]] <- apply(P_LMMTmattemp, 2, median)
+  P_LMMT[[i]] <- -log10(apply(P_LMMTmattemp, 2, mean))
   P_LMMTmat[[i]] <- P_LMMTmattemp
   #write.table(y, file = filename, row.names = FALSE, col.names = FALSE)
 }
