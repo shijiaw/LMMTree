@@ -8,7 +8,7 @@ Genome-wide association studies are often confounded by population stratificatio
 
 - Simulation: a folder with code to reproduce results of our simulation study
 - TB: code for MDR-GWAS. 
-- Methods: `` LM'' denotes a linear regression model, `` LMM'' denotes a linear mixed effects model with empirical genetic similarity matrix (inner product of SNP sequences), `` LiMU'' denotes linear mixed model with uncertainty in genetic similarity matrices (using posterior samples to compute expected genetic similarity matrix). 
+- Methods: ''LM'' denotes a linear regression model, `` LMM'' denotes a linear mixed effects model with empirical genetic similarity matrix (inner product of SNP sequences), `` LiMU'' denotes linear mixed model with uncertainty in genetic similarity matrices (using posterior samples to compute expected genetic similarity matrix). 
 
 Simulation
 ------------
@@ -18,7 +18,7 @@ There are several files in folder simulation:
 
 ### For each Scenario (S)
 
-- run`` treesim.R'' to simulate trees and sequences
+- run ``treesim.R'' to simulate trees and sequences
 - run ``phesim.R'' to simulate phenotype
 - run ``mb.R'' to estimate posterior of phylogenetic trees
 - use ``https://github.com/shijiaw/Expected-Genetic-Similarity-Matrices'' to get the estimated GSM with the thinnined posterior tree samples 
