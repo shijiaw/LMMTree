@@ -8,7 +8,7 @@ Genome-wide association studies are often confounded by population stratificatio
 
 - Simulation: a folder with code to reproduce results of our simulation study
 - TB: code for MDR-GWAS. 
-- Methods: `LM' denotes a linear regression model, `LMM' denotes a linear mixed effects model with empirical genetic similarity matrix (inner product of SNP sequences), `LiMU' denotes linear mixed model with uncertainty in genetic similarity matrices (using posterior samples to compute expected genetic similarity matrix). 
+- Methods: ``LM'' denotes a linear regression model, ``LMM'' denotes a linear mixed effects model with empirical genetic similarity matrix (inner product of SNP sequences), ``LiMU'' denotes linear mixed model with uncertainty in genetic similarity matrices (using posterior samples to compute expected genetic similarity matrix). 
 
 Simulation
 ------------
