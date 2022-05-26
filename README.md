@@ -8,7 +8,6 @@ Genome-wide association studies are often confounded by population stratificatio
 
 - Simulation: a folder with code to reproduce results of our simulation study
 - TB: code for MDR-GWAS. 
-- Methods: ''LM'' denotes a linear regression model, "LMM'' denotes a linear mixed effects model with empirical genetic similarity matrix (inner product of SNP sequences), "LiMU'' denotes linear mixed model with uncertainty in genetic similarity matrices (using posterior samples to compute expected genetic similarity matrix). 
 
 Simulation
 ------------
@@ -18,10 +17,25 @@ There are several files in folder simulation:
 
 ### For each Scenario (S)
 
-- run ``treesim.R'' to simulate trees and sequences
+- run`` treesim.R'' to simulate trees and sequences
 - run ``phesim.R'' to simulate phenotype
 - run ``mb.R'' to estimate posterior of phylogenetic trees
 - use ``https://github.com/shijiaw/Expected-Genetic-Similarity-Matrices'' to get the estimated GSM with the thinnined posterior tree samples 
-- run ``comparison.R'' for GWAS on simulated data set 
+- run ``comparison.R'' for GWAS on simulated data set. Method `LM' denote linear regression model, `LMM' denotes linear mixed model with empirical genetic similarity matrix (inner product of SNP matrices), `LiMU' denotes linear mixed model with expected genetic similarity matrices (computed from posterior samples of phylogenies). 
 - ``pagg.R'' includes our code for plots
+
+
+Software
+------------
+
+The package folder includes an R function that implement LiMU
+
+- ``LiMU.R'' is the main function for LiMU method, which include Mr. Bayes run for posterior trees, computation of GSM and run LMMs via EMMA method.
+- ``emma.R'' is the source code for EMMA method.
+-``demo.R" shows an example for running LiMU with specific inputs.
+- folder ``src'' includes java implementation for computation of expected GSM.
+- folder ``jars'' includes jar files that is required for GSM computation.
+- folder ``DataDemo'' includes data for ``demo.R", in which ``seq1.nex" is a .nex file includes DNA sequences for Mr. Bayes, ``y_1.csv" is phenotype data and ``SNP1.csv" is SNPs. 
+- After running ``LiMU.R'' you will get p-values of LiMU in folder ``Pvalue" (i.e. ``minuslog10P.csv'' includes -log_10(p-value) for each site summarized by mean statistics, ``originalP.csv'' includes all original p-values).
+
 
