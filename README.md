@@ -32,10 +32,10 @@ The package folder includes an R function that implement LiMU
 
 - ``LiMU.R'' is the main function for LiMU method, which include Mr. Bayes run for posterior trees, computation of GSM and run LMMs via EMMA method.
 - ``emma.R'' is the source code for EMMA method.
--``demo.R" shows an example for running LiMU with specific inputs.
+- ``demo.R" shows an example for running LiMU with specific inputs.
 - folder ``src'' includes java implementation for computation of expected GSM.
 - folder ``jars'' includes jar files that is required for GSM computation.
-- folder ``DataDemo'' includes data for ``demo.R", in which ``seq1.nex" is a .nex file includes DNA sequences for Mr. Bayes, ``y_1.csv" is phenotype data and ``SNP1.csv" is SNPs. 
+- folder 'DataDemo' includes data for 'demo.R', in which 'seq1.nex' is a .nex file includes DNA sequences for Mr. Bayes, 'y_1.csv' is phenotype data and ``SNP1.csv" is SNPs. 
 - After running 'LiMU.R' you will get p-values of LiMU in folder 'Pvalue' (i.e. 'minuslog10P.csv' includes -log_10(p-value) for each site summarized by mean statistics, 'originalP.csv' includes all original p-values).
 
 
