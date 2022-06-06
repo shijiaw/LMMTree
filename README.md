@@ -21,7 +21,7 @@ There are several files in folder simulation:
 - run ``phesim.R'' to simulate phenotype
 - run ``mb.R'' to estimate posterior of phylogenetic trees
 - use ``https://github.com/shijiaw/Expected-Genetic-Similarity-Matrices'' to get the estimated GSM with the thinnined posterior tree samples 
-- run ``comparison.R'' for GWAS on simulated data set. Method `LM' denote linear regression model, `LMM' denotes linear mixed model with empirical genetic similarity matrix (inner product of SNP matrices), `LiMU' denotes linear mixed model with expected genetic similarity matrices (computed from posterior samples of phylogenies). 
+- run ``comparison.R'' for GWAS on simulated data set. Method `LM' denote linear regression model, `LMM' denotes linear mixed model with empirical genetic similarity matrix (inner product of SNP matrices), `LiMU' denotes linear mixed model with expected genetic similarity matrices (computed from posterior samples of phylogenies), `pyseer' denotes the ﬁxed eﬀects model with the genetic similarity matrix represented by MDS implemented in the pyseer software.
 - ``pagg.R'' includes our code for plots
 
 
